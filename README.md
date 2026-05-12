@@ -3,7 +3,7 @@ https://doseunghee.notion.site/2_-35e80d0ae1a680878380e42db1132b5e?source=copy_l
 
 2. 데이터 (데이터와 클린징 과정)와 시각화 결과 (차트 설명 및 인사이트)
 2-1. 데이터
-한국도로교통공단 교통사고분석시스템(https://taas.koroad.or.kr/web/shp/mik/main.do?menuId=WEB_KMP)에서 아래의 데이터 다운로드하였다. (범위: 2023-2024년)
+한국도로교통공단 교통사고분석시스템(https://taas.koroad.or.kr/web/shp/mik/main.do?menuId=WEB_KMP)에서 아래의 데이터를 다운로드하였다. (범위: 2023-2024년)
 (1) 서울시 자치구별 교통사고
 (2) 서울시 기상상태별 교통사고
 (3) 서울시 법규위반별 교통사고
